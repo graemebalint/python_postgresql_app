@@ -26,4 +26,5 @@ Database: https://bit.io/graemebalint/python-postgresql-app
 
 **Project notes:**
 1. All interactions between the Python program and the database are printed on the console. This includes: establishing a connection to the database, committing updates, closing the connection at the end of the session. 
-2. The UI was built using the Tkinter module in Python. It looks better when rendered locally using a Python compiler like PyCharm. At this point, I have decided to not rebuild the UI for a web app since the focus of this project is working with databases, Python and Postgresql.
+2. The UI and database connection are both classes are made by creating object instances.
+3. The UI was built using the Tkinter module in Python. It looks better when rendered locally using a Python compiler like PyCharm. At this point, I have decided to not rebuild the UI for a web app since the focus of this project is working with databases, Python and Postgresql.
