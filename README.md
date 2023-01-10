@@ -25,4 +25,4 @@ Database: https://bit.io/graemebalint/python-postgresql-app
 
 
 **Project notes:**
-1. The UI was built using the Tkinter module in Python. It looks better when rendered locally using a Python compiler like PyCharm. At this point, I have decided to not rebuild the GUI for a web app since the focus of this project is working with databases, Python and Postgresql.
+1. The UI was built using the Tkinter module in Python. It looks better when rendered locally using a Python compiler like PyCharm. At this point, I have decided to not rebuild the UI for a web app since the focus of this project is working with databases, Python and Postgresql.
