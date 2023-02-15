@@ -17,7 +17,7 @@ Database: https://bit.io/graemebalint/python-postgresql-app
 1. Learn how to integrate Postgresql with Python.
 2. Use Python to write directly to a database.
 
-**Project notes:**
+**Notes:**
 
 1. All interactions between the Python program and the database are printed on the console. This includes: establishing a connection to the database, committing updates, closing the connection at the end of the session. 
 2. The UI and database connection are both classes are made by creating object instances.
