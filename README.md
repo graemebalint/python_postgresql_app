@@ -1,7 +1,4 @@
 # python-postgresql-app
-A proof of concept python program that connects to a postgresql database. The user can create, read, update and delete data in the database through the UI.
-
-
 Live demo: https://replit.com/@GraemeBalint/python-postgresql-app?v=1
 Database: https://bit.io/graemebalint/python-postgresql-app
 
