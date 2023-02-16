@@ -5,7 +5,7 @@ Database: https://bit.io/graemebalint/python-postgresql-app
 
 **Instructions:**
 
-1. Open the live demo link and click the **green run** button. 
+1. Open the live demo link and click the **green run** button (its slow, may take a few seconds after clicking the button). Follow the on-screen prompts.
 2. Open the database link (opens database hosted by bit.io).
 3. Verify any changes made to the table via the UI are reflected in the database.
 
